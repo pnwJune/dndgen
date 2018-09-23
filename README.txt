@@ -1,0 +1,1 @@
+A console application idea I had for simple dungeons and dragons character, encounter, and hook generation
