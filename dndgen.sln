@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dndgen", "dndgen\dndgen.csproj", "{EBE35CE9-C8AF-4BFA-95DC-9F97F7FA0399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE35CE9-C8AF-4BFA-95DC-9F97F7FA0399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE35CE9-C8AF-4BFA-95DC-9F97F7FA0399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE35CE9-C8AF-4BFA-95DC-9F97F7FA0399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE35CE9-C8AF-4BFA-95DC-9F97F7FA0399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8D881F-BC87-4A10-AF6B-EB9AEC35173E}
+	EndGlobalSection
+EndGlobal
